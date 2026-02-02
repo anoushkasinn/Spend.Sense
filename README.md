@@ -190,7 +190,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### 💡 Built for students, by a student
 
-**Made with ❤️ for [Hackathon Name]**
+**Made with ❤️ for AIBoomi Startup Weekend, Pune**
 
 ⭐ Star this repo if you found it helpful!
 
